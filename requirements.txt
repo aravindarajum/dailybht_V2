@@ -1,0 +1,9 @@
+selenium==4.22.0
+pytest==8.2.2
+pytest-html==4.1.1
+pytest-xdist==3.6.1
+pyyaml==6.0.1
+softest==1.2.0.0
+
+pandas~=2.2.2
+logging~=0.4.9.6
